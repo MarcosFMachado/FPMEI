@@ -33,8 +33,9 @@
           </ul>
           <form class="form-inline mt-2 mt-md-0" action="painel">
           	<input class="form-control mr-sm-2" type="text area" placeholder="Email" aria-label="Email">
-            <input class="form-control mr-sm-2" type="text" placeholder="Senha" aria-label="Senha">
+                <input class="form-control mr-sm-2" type="password" placeholder="Senha" aria-label="Senha">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Entrar</button>
+            <button class="btn btn-outline-success my-2 my-sm-0" type="button">Cadastrar</button>
           </form>
         </div>
       </nav>
@@ -44,12 +45,12 @@
     <main role="main" class="container">
       <h1 class="mt-5">Bem vindo ao FPMEI</h1>
       <p class="lead">Texto texto texto texto texto, texto texto texto texto texto.</p>
-      <p>Texto <a href="../sticky-footer">texto</a> mais texto.</p>
+      <p>Texto <a href="../sticky-footer">link</a> mais texto.</p>
     </main>
 
     <footer class="footer">
       <div class="container">
-        <span class="text-muted">Rodapé.</span>
+        <span class="text-muted">Rodapé</span>
       </div>
     </footer>
 
