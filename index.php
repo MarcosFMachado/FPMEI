@@ -1,4 +1,5 @@
 <?php
-echo basename(__FILE__);
+//apenas carrega o request.php
 require 'lib/request.php';
 
+?>
